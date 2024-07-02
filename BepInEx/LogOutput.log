@@ -1,0 +1,500 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (18/11/2023 19:41:09)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [FixPluginTypesSerialization 1.0.0.0]
+[Info   :   BepInEx] 3 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Message:FixPluginTypesSerialization] Using the config cache
+[Info   :FixPluginTypesSerialization] Running under Unity v2022.3.9
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 21 plugins to load
+[Info   :   BepInEx] Loading [Strange Objects 1.2.0.0]
+[Info   :   BepInEx] Loading [LethalLib 0.16.0]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.7.7]
+[Info   :Lethal Company Input Utils] Registered InputUtilsExtendedMouse Layout Override!
+[Info   :Lethal Company Input Utils] InputUtils 0.7.7 has finished loading!
+[Info   :   BepInEx] Loading [LethalThings 0.10.4]
+[Info   :LethalThings] LethalLib version is 0.16.0, which is compatible with LethalThings 0.9.0+
+[Info   :LethalThings] [Optional dependency] LethalCompanyInputUtils version is 0.7.7, which is compatible with LethalThings 0.8.0+
+[Info   : LethalLib] [LethalLib] LethalThings is registering 28 content items!
+[Info   : LethalLib] Registering player ragdoll LTGoopRagdoll
+[Info   :LethalThings] LethalThings loaded successfully!!!
+[Info   :   BepInEx] Loading [Chillax Mods 0.6.0]
+[Info   : LethalLib] Loaded asset bundle
+[Info   :Chillax Mods] [CHILLAX] Registering... Boink at rarity 25
+[Info   :Chillax Mods] [CHILLAX] Registering... Cup Noodle at rarity 40
+[Info   :Chillax Mods] [CHILLAX] Registering... Freddy Fast Bear? at rarity 15
+[Info   :Chillax Mods] [CHILLAX] Registering... Nokia 3310 at rarity 25
+[Info   :Chillax Mods] [CHILLAX] Registering... Moai at rarity 20
+[Info   :Chillax Mods] [CHILLAX] Registering... Froggy Chair at rarity 25
+[Info   :Chillax Mods] [CHILLAX] Registering... Eevee Plush at rarity 25
+[Info   :Chillax Mods] [CHILLAX] Registering... Death Note at rarity 20
+[Info   :Chillax Mods] [CHILLAX] Registering... Uno Reverse Card at rarity 20
+[Info   : LethalLib] [CHILLAX] Custom content loaded!
+[Info   :Chillax Mods] CHILLAX Plugin Loaded
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [CSync 5.0.1]
+[Info   :     CSync] CSync successfully applied patches.
+[Info   :   BepInEx] Loading [TooManyEmotes 1.8.0]
+[Info   :TooManyEmotes] BindingConfigs
+[Info   :TooManyEmotes] Cleaning old config entries
+[Info   :TooManyEmotes] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes] InputUtilsLoaded: True
+[Info   :TooManyEmotes] Successfully loaded 8 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes] Successfully loaded 83 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes] Successfully loaded 68 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes] Successfully loaded 50 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes] Successfully loaded 2 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes] Successfully loaded 1 animation clips from asset bundle: Assets/emotes_misc
+[Info   :TooManyEmotes] Successfully loaded radial menu asset.
+[Info   :TooManyEmotes] TooManyEmotes loaded
+[Info   :   BepInEx] Loading [MaxWasUnavailable.LethalModDataLib 1.2.2]
+[Info   :MaxWasUnavailable.LethalModDataLib] Plugin MaxWasUnavailable.LethalModDataLib is loaded!
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.2.0.4]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :LethalLevelLoader] Finding LethalBundles!
+[Info   :LethalLevelLoader] No Bundles Found!
+[Info   :LethalLevelLoader] Config Level Set As: User
+[Info   :   BepInEx] Loading [Needy Cats 1.1.1]
+[Info   :Jordo.NeedyCats] Initialized Needy Cats
+[Info   :   BepInEx] Loading [Hide Chat 1.0.0]
+[Info   :   BepInEx] Loading [PersistentPurchases 1.1.1]
+[Info   :PersistentPurchases] Beginning patching of GameNetworkManager.ResetSavedGameValues
+[Info   :PersistentPurchases] Patched GameNetworkManager.ResetSavedGameValues
+[Info   :PersistentPurchases] Plugin PersistentPurchases is loaded!
+[Info   :   BepInEx] Loading [Flashlight 1.3.1]
+[Info   :Flashlight] ------Flashlight done.------
+[Info   :   BepInEx] Loading [Skinwalker Mod 5.0.0]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 5.0.0
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Monster Plushies 1.2.9]
+[Info   :Monster Plushies] Loaded Monster Plushies
+[Info   :   BepInEx] Loading [Scoopy's Variety Mod 1.2.0]
+[Info   :ScoopysVarietyMod] Successfully loaded WeezerGuitar (Item)
+[Info   :ScoopysVarietyMod] Successfully loaded FireAxe (Item)
+[Info   :ScoopysVarietyMod] Successfully loaded CrownItem (Item)
+[Info   :ScoopysVarietyMod] Custom Scrap Loaded Successfully
+[Info   :ScoopysVarietyMod] Registering flow CastleFlow with:
+dungeonRarity: 300
+dungeonMoons: list
+guaranteeDungeon: True
+dungeonSizeMax: 2
+dungeonSizeMin:1
+[Info   :ScoopysVarietyMod] Registered CastleFlow on moon name experimentation with rarity 25
+[Info   :ScoopysVarietyMod] Registered CastleFlow on moon name  assurance with rarity 25
+[Info   :ScoopysVarietyMod] Registered CastleFlow on moon name vow with rarity 25
+[Info   :ScoopysVarietyMod] Registering flow SewerFlow with:
+dungeonRarity: 300
+dungeonMoons: all
+guaranteeDungeon: False
+dungeonSizeMax: 2
+dungeonSizeMin:1
+[Info   :ScoopysVarietyMod] Registered SewerFlow interior on all moons, including modded with rarity 300.
+[Info   :ScoopysVarietyMod] Initialised Successfully
+[Info   :   BepInEx] Loading [SpectateEnemy 2.4.1]
+[Info   :SpectateEnemy] SpectateEnemy loaded!
+[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.3]
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [More Suits 1.3.3]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Info   :   BepInEx] Loading [Too Many Suits 1.0.3]
+[Info   :Too Many Suits] TooManySuits Mod Loaded.
+[Message:   BepInEx] Chainloader startup complete
+[Info   :LethalLevelLoader] Registering Bundle Content!
+[Info   :LethalLevelLoader] Skipped Registering 50 NetworkObjects As They Were Already Registered.
+[Info   :Jordo.NeedyCats] Added Needy Cats prefab to Network Manager.
+[Info   :LethalThings] Found conductive scrap [LungApparatus]
+[Info   :LethalThings] Found conductive scrap [PatcherGunItem]
+[Info   :LethalThings] Found conductive scrap [Cog]
+[Info   :LethalThings] Found conductive scrap [EnginePart]
+[Info   :LethalThings] Found conductive scrap [MetalSheet]
+[Info   :LethalThings] Found conductive scrap [ShovelItem]
+[Info   :LethalThings] Found conductive scrap [BigBolt]
+[Info   :LethalThings] Found conductive scrap [FancyLamp]
+[Info   :LethalThings] Found conductive scrap [FancyRing]
+[Info   :LethalThings] Found conductive scrap [HandBell]
+[Info   :LethalThings] Found conductive scrap [RobotToy]
+[Info   :LethalThings] Found conductive scrap [TeaKettle]
+[Info   :LethalThings] Found conductive scrap [StopSign]
+[Info   :LethalThings] Found conductive scrap [RedSodaCan]
+[Info   :LethalThings] Found conductive scrap [EggBeater]
+[Info   :LethalThings] Found conductive scrap [JetpackItem]
+[Info   :LethalThings] Found conductive scrap [Clownhorn]
+[Info   :LethalThings] Found conductive scrap [GoldBar]
+[Info   :LethalThings] Found conductive scrap [CashRegisterItem]
+[Info   :LethalThings] Found conductive scrap [Key]
+[Info   :LethalThings] Found conductive scrap [TZPChemical]
+[Info   :LethalThings] Found conductive scrap [LungApparatusTurnedOff]
+[Info   :LethalThings] Found conductive scrap [RedLocustHive]
+[Info   :LethalThings] Found conductive scrap [ExtensionLadderItem]
+[Info   :LethalThings] Found conductive scrap [RadarBoosterDevice]
+[Info   :LethalThings] Found conductive scrap [YieldSign]
+[Info   :LethalThings] Found conductive scrap [Flask]
+[Info   :LethalThings] Found conductive scrap [KnifeItem]
+[Info   :LethalThings] Found conductive scrap [Crown]
+[Info   :LethalThings] Found conductive scrap [Dingus]
+[Info   :LethalThings] Found conductive scrap [GremlinEnergy]
+[Info   :LethalThings] Found conductive scrap [FlaregunAmmo]
+[Info   :LethalThings] Found conductive scrap [CoilHeadPlush]
+[Info   :LethalThings] Found conductive scrap [JesterPlushie]
+[Info   :LethalThings] Found conductive scrap [NutCracker]
+[Info   :LethalThings] Found conductive scrap [FireAxeItem]
+[Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
+[Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
+[Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
+[Info   :LethalThings] Spawning config manager
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedLevels:
+1. 41 Experimentation (Vanilla)
+2. 220 Assurance (Vanilla)
+3. 56 Vow (Vanilla)
+4. 71 Gordion (Vanilla)
+5. 61 March (Vanilla)
+6. 20 Adamance (Vanilla)
+7. 85 Rend (Vanilla)
+8. 7 Dine (Vanilla)
+9. 21 Offense (Vanilla)
+10. 8 Titan (Vanilla)
+11. 68 Artifice (Vanilla)
+12. 44 Liquidation (Vanilla)
+13. 5 Embrion (Vanilla)
+
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
+1. Facility (Level1Flow) (Vanilla)
+2. Haunted Mansion (Level2Flow) (Vanilla)
+3. Facility (Level1FlowExtraLarge) (Vanilla)
+4. Facility (Level1Flow3Exits) (Vanilla)
+5. CastleFlow (CastleFlow) (Custom)
+6. SewerFlow (SewerFlow) (Custom)
+
+[Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: ExperimentationLevel, Current Vanilla Save Is: LCSaveFile3
+[Info   :LethalLevelLoader] LethalLevelLoader Has Finished Initializing.
+[Info   :Jordo.NeedyCats] Added Needy Cats to items list.
+[Info   : LethalLib] Adding 4 unlockables to unlockables list
+[Info   : LethalLib] Adding 8 items to terminal
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   : LethalLib] Found 38 prefabs to fix
+[Info   :Jordo.NeedyCats] Added Needy Cats to all levels.
+[Info   :LethalLevelLoader] Loading Previously Saved SelectableLevel: 41 Experimentation
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 41 Experimentation
+[Info   :TooManyEmotes] [SaveManager] Loading game values.
+[Info   :TooManyEmotes] Resetting unlocked emotes.
+[Info   :TooManyEmotes] Loading 0 emotes for player: IronLyzhard
+[Info   :TooManyEmotes] Loading 100 emote credits for player: IronLyzhard
+[Info   :TooManyEmotes] Loaded 201 unlockable emotes.
+[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
+[Info   :TooManyEmotes] Loaded Seed: 984727931
+[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 984727931
+[Info   :TooManyEmotes] Rotate new emote value: 0,46973306800692
+[Info   :TooManyEmotes] Rotate new emote value: 0,0336651662521368
+[Info   :TooManyEmotes] Rotate new emote value: 0,424860145628853
+[Info   :TooManyEmotes] Rotate new emote value: 0,980143398037247
+[Info   :TooManyEmotes] Rotate new emote value: 0,601268474292601
+[Info   :TooManyEmotes] Rotate new emote value: 0,638856163080249
+[Info   : LethalLib] Skipping Crystal Ray because it was already added
+[Info   :PersistentPurchases] Registering 47 unlockables
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_Start() Function To Prevent Conflicts
+[Info   :TooManyEmotes] Initializing local player.
+[Warning:TooManyEmotes] Converting animator controller to override for player: Player
+[Warning:TooManyEmotes] Converting animator controller to override for player: Player
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :LethalThings] Syncing configs!
+[Info   :LethalLevelLoader] Getting Random DungeonFlows!
+[Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
+
+Info For ExtendedLevel: ExperimentationExtendedLevel | Planet Name: Experimentation | Content Tags: Free, Wasteland, Vanilla | Route Price: 0 | Current Weather: None
+Unviable ExtendedDungeonFlows: Facility, Facility
+Viable ExtendedDungeonFlows: SewerFlow (300), Facility (300), CastleFlow (25), Haunted Mansion (1)
+
+[Info   :LethalLevelLoader] Setting Random DungeonFlows!
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
+[Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
+
+EntranceTeleport's Found, Experimentation Contains 2 Entrances! ( 1 Fire Escapes) 
+Main Entrance: EntranceTeleportA (Entrance ID: 0) (Dungeon ID: 0)
+Alternate Entrance: EntranceTeleportB (Entrance ID: 1) (Dungeon ID: 0)
+Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawnrate Count From (1,1) To (1,1)
+
+
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Experimentation ,Facility ,Quota: 0 , Day: 1 , Weather: None
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :TooManyEmotes] [SaveManager] Saving game values.
+[Info   :TooManyEmotes] Saving 201 emotes for player: IronLyzhard
+[Info   :TooManyEmotes] Saving 100 emote credits for player: IronLyzhard
+[Info   :TooManyEmotes] Saved Seed: 984727931
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :LethalLevelLoader] Getting Random DungeonFlows!
+[Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
+
+Info For ExtendedLevel: ExperimentationExtendedLevel | Planet Name: Experimentation | Content Tags: Free, Wasteland, Vanilla | Route Price: 0 | Current Weather: Flooded
+Unviable ExtendedDungeonFlows: Facility, Facility
+Viable ExtendedDungeonFlows: SewerFlow (300), Facility (300), CastleFlow (25), Haunted Mansion (1)
+
+[Info   :LethalLevelLoader] Setting Random DungeonFlows!
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
+[Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
+
+EntranceTeleport's Found, Experimentation Contains 2 Entrances! ( 1 Fire Escapes) 
+Main Entrance: EntranceTeleportA (Entrance ID: 0) (Dungeon ID: 5)
+Alternate Entrance: EntranceTeleportB (Entrance ID: 1) (Dungeon ID: 5)
+Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawnrate Count From (1,1) To (1,1)
+
+
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Experimentation ,SewerFlow ,Quota: 0 , Day: 2 , Weather: Flooded
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :TooManyEmotes] [SaveManager] Resetting game values.
+[Info   :TooManyEmotes] Resetting progression.
+[Info   :TooManyEmotes] Resetting unlocked emotes.
+[Info   :PersistentPurchases] Taking note of bought unlockables
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 41 Experimentation
+[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 95687807
+[Info   :TooManyEmotes] Rotate new emote value: 0,362287381832622
+[Info   :TooManyEmotes] Rotate new emote value: 0,867489808177338
+[Info   :TooManyEmotes] Rotate new emote value: 0,696159435294643
+[Info   :TooManyEmotes] Rotate new emote value: 0,505535681967407
+[Info   :TooManyEmotes] Rotate new emote value: 0,535961692471039
+[Info   :TooManyEmotes] Rotate new emote value: 0,222450469258451
+[Info   :PersistentPurchases] Rebuying unlockables
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :TooManyEmotes] [SaveManager] Saving game values.
+[Info   :TooManyEmotes] Saving 201 emotes for player: IronLyzhard
+[Info   :TooManyEmotes] Saving 100 emote credits for player: IronLyzhard
+[Info   :TooManyEmotes] Saved Seed: 95687807
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :LethalLevelLoader] Getting Random DungeonFlows!
+[Info   :LethalLevelLoader] ExtendedLevel <-> ExtendedDungeonFlow Dynamic Matching Report.
+
+Info For ExtendedLevel: ExperimentationExtendedLevel | Planet Name: Experimentation | Content Tags: Free, Wasteland, Vanilla | Route Price: 0 | Current Weather: Rainy
+Unviable ExtendedDungeonFlows: Facility, Facility
+Viable ExtendedDungeonFlows: SewerFlow (300), Facility (300), CastleFlow (25), Haunted Mansion (1)
+
+[Info   :LethalLevelLoader] Setting Random DungeonFlows!
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
+[Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
+
+EntranceTeleport's Found, Experimentation Contains 2 Entrances! ( 1 Fire Escapes) 
+Main Entrance: EntranceTeleportA (Entrance ID: 0) (Dungeon ID: 5)
+Alternate Entrance: EntranceTeleportB (Entrance ID: 1) (Dungeon ID: 5)
+Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawnrate Count From (1,1) To (1,1)
+
+
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Experimentation ,SewerFlow ,Quota: 0 , Day: 3 , Weather: Rainy
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Boomba(Clone) played voice line 0
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Boomba(Clone) played voice line 0
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled Boomba(Clone) True
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DocileLocustBees(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   :FixPluginTypesSerialization] Restored original AssemblyNames list

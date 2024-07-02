@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Do not ignore .gitignore itself
+!.gitignore
+
+# Allow specific files and directories
+!winhttp.dll
+!doorstop_config.ini
+!BepInEx/
+!BepInEx/**
